@@ -1,5 +1,9 @@
 # Take Home Challenge 1
 
+
+The original problem statement is in file:
+* utlimate_data_science_challenge.pdf
+
 The solution to each part is in its own file:
 
 
