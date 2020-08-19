@@ -21,13 +21,13 @@ their experience, and potentially increase sales.
 
 FILE FOLDERS
 
-EDA - Contains Exploratory Data Analysis 
+* EDA - Contains Exploratory Data Analysis 
 
-InferentialStats - example statistical analysis required by coursework
+* InferentialStats - example statistical analysis required by coursework
 
-Modeling - Python code used to process data, generate the Machine Learning Model, and process the results
+* Modeling - Python code used to process data, generate the Machine Learning Model, and process the results
 
-ReportAndPresentation - Final Report and PowerPoint presentation.
+* ReportAndPresentation - Final Report and PowerPoint presentation.
 
 
 
